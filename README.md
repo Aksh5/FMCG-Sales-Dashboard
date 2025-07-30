@@ -8,10 +8,9 @@ This project analyzes 3 years of sales data (2022–2024) for an FMCG company. I
 
 The dashboard includes:
 - Monthly and Yearly Sales Trends
-- SKU-wise Performance Analysis
-- Price vs. Units Sold Breakdown
-- Promotion Impact Comparison
-- KPI Cards & Dynamic Slicers
+- Units Sold by Channel and Category
+- Revenue by Category 
+- Units Sold by Category
 
 ---
 
@@ -33,8 +32,7 @@ Source: Kaggle FMCG Dataset
 
 ## 📈 Key Insights
 
-- Identified strong seasonal trends and promotional impacts across product categories  
-- Highlighted underperforming SKUs and optimized pricing decisions  
-- Enabled dynamic filtering by year, SKU, and promotional status
+- Identified strong trends and promotional impacts across product categories  
+- Enabled dynamic filtering by year, brand, category and promotional status
 
 ---
